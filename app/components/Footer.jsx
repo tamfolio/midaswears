@@ -16,7 +16,7 @@ export default function Footer() {
 
   return (
     <footer className="bg-white border-t border-gray-200 mt-16" style={{ fontFamily: 'Helvetica, Arial, sans-serif' }}>
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div className="max-w-full mx-auto px-4 sm:px-6 lg:px-10 py-12">
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-8">
           
           {/* Men Column */}
